@@ -1,0 +1,22 @@
+h1 {font-size: 60px;}
+
+body {
+    background-color:#F0EDCC; 
+    color: #02343F;
+    text-align: center; 
+    font-family: cursive, fantasy;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button {
+    background-color:#F0EDCC; 
+    color:#02343F;
+    font-weight: 500;
+    font-size: 25px;
+    font-family: cursive, fantasy;
+}
